@@ -1,0 +1,7 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\bin\Debug\IntermediateConsoleII.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\bin\Debug\IntermediateConsoleII.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\bin\Debug\IntermediateConsoleII.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\obj\Debug\IntermediateConsoleII.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\obj\Debug\IntermediateConsoleII.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\obj\Debug\IntermediateConsoleII.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 2\IntermediateConsoleII\IntermediateConsoleII\obj\Debug\IntermediateConsoleII.pdb
