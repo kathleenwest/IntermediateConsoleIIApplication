@@ -1,5 +1,7 @@
 # IntermediateConsoleIIApplication
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/09/10/intermediate-console-application-ii/
+
 Intermediate Console Application 
 My Student Project: C# Programming II
 
